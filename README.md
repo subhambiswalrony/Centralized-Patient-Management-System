@@ -429,6 +429,10 @@ This project is licensed under the ISC License.
 ## 👥 Authors
 
 - Subham Biswal - [GitHub](https://github.com/subhambiswalrony)
+- Vivekananda Champati - [GitHub](https://github.com/champati-v)
+- Tusarkanta Das - [GitHub](https://github.com/Tusar2202196)
+- Swabhiman Mohanty - [GitHub](https://github.com/Swaviman-git)
+- Soumya Sourav Kuanr - [GitHub](https://github.com/ctrl-sourav)
 
 ## 🙏 Acknowledgments
 
